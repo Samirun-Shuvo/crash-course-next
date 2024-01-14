@@ -1,4 +1,4 @@
-import Button from "@/app/components/button";
+import Button from "@/app/components/Button";
 import React from "react";
 import Image from "next/image";
 import girlImg from "@/public/images/girl.jpg";
